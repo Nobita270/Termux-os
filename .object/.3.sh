@@ -4,7 +4,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git /data/data/co
 
 clear
 PUT(){ echo -en "\033[${1};${2}H";}
-clear;toilet -t -f mono12  "H4Ck3R" --gay -F border
+clear;toilet -t -f mono12  "TERMUX" --gay -F border
 echo ""
 PUT 11 40
 echo -e "\e[92mBy\e[1;93m RajAryan\e[1;95m /\e[1;96m H4Ck3R0 "
